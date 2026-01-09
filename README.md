@@ -11,6 +11,7 @@ to build a **state-level early warning system** for COVID-19 in the US.
 
 # Architecture
 covid-outbreak-early-warning/
+
 ├─ App.py
 ├─ data_utils.py
 ├─ requirements.txt
