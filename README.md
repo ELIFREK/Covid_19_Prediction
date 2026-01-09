@@ -38,7 +38,7 @@ to build a **state-level early warning system** for COVID-19 in the US.
   - Builds an unsupervised surge index from wastewater viral load
 
 For details, see:
-- [`App.py`](App.py) — Streamlit app and visual dashboards
+- [`App2.py`](App2.py) — Streamlit app and visual dashboards
 - [`data_utils.py`](data_utils.py) — feature engineering and data loading
 
 ---
