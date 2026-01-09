@@ -50,5 +50,6 @@ For details, see:
 ## How to run locally
 
 ```bash
+pip install streamlit
 pip install -r requirements.txt
 streamlit run App2.py
