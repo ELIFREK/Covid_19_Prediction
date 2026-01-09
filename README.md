@@ -1,4 +1,4 @@
-# Covid_19_Prediction
+# ReadMe
 # US COVID-19 Outbreak Early Warning (State-Level)
 
 This project uses open CDC data (hospitalizations, wastewater, vaccines, variants)
