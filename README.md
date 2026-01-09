@@ -47,4 +47,4 @@ For details, see:
 
 ```bash
 pip install -r requirements.txt
-streamlit run App.py
+streamlit run App2.py
