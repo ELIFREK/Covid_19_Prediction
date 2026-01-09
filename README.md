@@ -10,19 +10,7 @@ to build a **state-level early warning system** for COVID-19 in the US.
 ---
 
 # Architecture
-covid-outbreak-early-warning/
-
-├─ App.py
-├─ data_utils.py
-├─ requirements.txt
-├─ README.md
-├─ images/
-│   ├─ map_risk_example.png
-│   ├─ animated_map.gif
-│   ├─ tile_density_map.png
-│   └─ clusters_map.png
-└─ notebooks/
-    └─ EDA_and_KPIs.ipynb   (optional but nice)
+<img width="580" height="380" alt="image" src="https://github.com/user-attachments/assets/a16d60f0-2a78-4ff1-a76c-dd5310f924ab" />
 
 
 ## Key visualizations
