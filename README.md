@@ -33,7 +33,7 @@ to build a **state-level early warning system** for COVID-19 in the US.
 
 - **Hospital mode**:
   - Builds weekly state features: hospital admissions, wastewater, vaccination, variants
-  - Trains Gradient Boosting / GPR (optionally CatBoost) to predict next-week outbreak
+  - Trains Gradient Boosting / GPR / CatBoost to predict next-week outbreak
 - **Wastewater mode**:
   - Builds an unsupervised surge index from wastewater viral load
 
