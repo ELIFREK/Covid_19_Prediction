@@ -4,7 +4,7 @@
 This project uses open CDC data (hospitalizations, wastewater, vaccines, variants)
 to build a **state-level early warning system** for COVID-19 in the US.
 
-💻 **Live app** (Streamlit): [link will go here]  
+💻 **Live app** (Streamlit): https://covid19prediction-b6vphcjydwqgqj2tiaqrem.streamlit.app/ 
 📊 **Tech stack**: Streamlit · Python · scikit-learn · Plotly
 
 ---
